@@ -1,0 +1,27 @@
+{
+  "name": "casadecambio",
+  "version": "1.0.0",
+  "description": "Aplicação busca a conversão da taxa de uma moeda para outras",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-mato/casaDeCambio.git"
+  },
+  "author": "Felipe Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipe-mato/casaDeCambio/issues"
+  },
+  "homepage": "https://github.com/felipe-mato/casaDeCambio#readme",
+  "dependencies": {
+    "vite": "^5.0.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "sweetalert2": "^11.10.1"
+  }
+}
